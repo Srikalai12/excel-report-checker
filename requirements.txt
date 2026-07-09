@@ -1,5 +1,5 @@
-flask
+Flask
 gunicorn
 openpyxl
+Werkzeug
 pyspellchecker
-werkzeug
