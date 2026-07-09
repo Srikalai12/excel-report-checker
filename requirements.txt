@@ -1,6 +1,5 @@
-Flask
+flask
 gunicorn
 openpyxl
-Werkzeug
-symspellpy
-setuptools
+pyspellchecker
+werkzeug
